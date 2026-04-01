@@ -80,4 +80,4 @@ Perpetual long term goal:
 In the [Goals](#goals) section, I made a point to separate my long term goal because as my all time GOAT said:
 > Luck has nothing to do with it because I have spent many, many hours, countless hours, on the court working for my one moment in time - Serena Williams
 
-I live by this mantra, and that if I learn a little of something daily I can say that I know more than I did yesterday.
+I try to live by this mindset especially in coding. Growth doesn’t happen overnight, it’s built one small step at a time. If I can learn even a little something new every day, then I know I’m moving forward, becoming better than I was yesterday, and getting one step closer to where I want to be! 
