@@ -16,7 +16,7 @@ Outside of school, I ***LOVE*** to play and watch tennis. I also have a 3 year o
 * Listening to music
 * Taking joy rides with my dog around San Diego
 
-# Programming Experience
+## Programming Experience
 
 My programming experience is limited to the work I have done during my time in UCSD and Community College. I have experience with using the following programming languages (ordered by favorability):
 1. Python
@@ -67,7 +67,7 @@ for ct in celltypes:
 
 [Here is one of the violin plots that this code produces.](images/VisualizationResults/E1.png)
 
-# Goals
+## Goals
 As a programmer/bioinformatician in this crazy AI world, I always strive to be better everyday. Here are some of my short term goals
 - [ ] Continue to read in pandas and numpy
 - [ ] Do 3-4 leetcode challenges every week
