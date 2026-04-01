@@ -6,17 +6,20 @@ Hello my name is John! I am currently a 4th year CS (with a Specialization in Bi
 
 <p align="center"><img src="images/hif3a.png" width="400"> <img src="images/dog.png" width="200"></p>
 
-Outside of school, I ***LOVE*** to play and watch tennis. I also have a 3 year old dog named June. He is a German Shepherd and Belgian Malinois mix. We both love to go on hikes especially on cooler days. 
+Outside of school, I ***LOVE*** to play and watch tennis. I also have a 3 year old dog named June. He is a German Shepherd and Belgian Malinois mix. We both love to go on hikes especially on cooler days. Other hobbies I have are:
+* Hiking
+* Listening to music
+* Taking joy rides with my dog around San Diego
 
 # Programming Experience
 
-My programming experience is limited to the work I have done during my time in UCSD and Community College. I have experience with using the following programming languages:
-- C
-- C++
-- Python
-- Java
-- bash
-- R
+My programming experience is limited to the work I have done during my time in UCSD and Community College. I have experience with using the following programming languages (ordered by favorability):
+1. Python
+2. bash
+3. R
+4. C++
+5. C
+6. Java
 
 Most recently, I have been tasked by my lab PI to perform analysis on the Socs1 gene (with respect to the addition of Dexamethasone). With this work, I have been employing Python libraries such as Numpy and Pandas. As part of the analysis, I am also tasked to visualize my results and as such, I have been using visualization libraries such as seabourne and matplotlib in my project. This is my favorite part of every project I work on. It is very satisfying to watch the data with pretty colors! 
 
