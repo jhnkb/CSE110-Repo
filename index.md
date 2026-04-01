@@ -56,3 +56,5 @@ for ct in celltypes:
     plt.ylim(None, None)
     plt.show()
 ```
+
+[Here is one of the violin plots that this code produces.](images/VisualizationResults/E1.png)
