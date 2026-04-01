@@ -64,11 +64,12 @@ As a programmer/bioinformatician in this crazy AI world, I always strive to be b
 - [ ] Continue to read in pandas and numpy
 - [ ] Do 3-4 leetcode challenges every week
 - [ ] Read 1 paper about bioinformatics tools every week
+- [ ] Learn and start reading into Machine Learning
 
 Perpetual long term goal:
 - [ ] Learn something everyday
 
-Because as my favotite atlethe said:
+In the [Goals](#Goals) section, I made a point to separate my long term goal because as my all time GOAT said:
 > Luck has nothing to do with it because I have spent many, many hours, countless hours, on the court working for my one moment in time - Serena Williams
 
 I live by this mantra, and that if I learn a little of something daily I can say that I know more than I did yesterday.
