@@ -12,8 +12,7 @@ Hello my name is John! I am currently a 4th year CS (with a Specialization in Bi
 <p align="center"><img src="images/hif3a.png" width="400"> <img src="images/dog.png" width="200"></p>
 
 Outside of school, I ***LOVE*** to play and watch tennis. I also have a 3 year old dog named June. He is a German Shepherd and Belgian Malinois mix. We both love to go on hikes especially on cooler days. Other hobbies I have are:
-* Hiking
-* Listening to music
+* Listening to true-crime podcast
 * Taking joy rides with my dog around San Diego
 
 ## Programming Experience
