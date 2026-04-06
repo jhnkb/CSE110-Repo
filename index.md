@@ -3,6 +3,13 @@ layout: default
 title: John Bolibol
 ---
 
+# Table of Contents
+
+- [About Me](#about-me)
+- [Programming Experience](#programming-experience)
+- [Goals](#goals)
+
+
 ## About Me
 
 <p align="center"><img src="https://images.squarespace-cdn.com/content/v1/66c91c607abc266f1dabb6d4/ca718462-432f-4cc8-a9a8-0bc06739e48a/John+Bolibol.jpg?format=1000w" width="200"></p>
