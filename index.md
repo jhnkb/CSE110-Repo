@@ -81,7 +81,7 @@ As a programmer/bioinformatician in this crazy AI world, I always strive to be b
 - [ ] Learn and start reading into Machine Learning
 
 Perpetual long term goal:
-- [ ] Learn _something new_ everyday
+- [X] Learn _something new_ everyday
 
 In the [Goals](#goals) section, I made a point to separate my long term goal because as my all time GOAT said:
 > Luck has nothing to do with it because I have spent many, many hours, countless hours, on the court working for my one moment in time - Serena Williams
